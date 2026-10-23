@@ -43,26 +43,44 @@
 * **فتح الملف الأصلي:** انقر نقراً مزدوجاً على اسم الملف في القائمة ليفتح في برنامجه المعتاد (Word, Excel, إلخ).
 * **التصدير:** استخدم زري التصدير بالأسفل لحفظ تقرير شامل بصيغة **Excel/CSV** أو ملف **PDF** منسق ومجهز للطباعة.
 
-* # DocExplorer-pro
-# 📄 Installation and User Guide for DocExplorer Pro
-
+DocExplorer-pro
+📄 Installation and User Guide for DocExplorer Pro
 Welcome! The program allows you to perform advanced searches and extract text with high accuracy and ultra-fast speed from scanned documents and images.
 
----
+💻 System Requirements
+Operating System: Windows 10 or Windows 11 (64-bit).
+Additional Dependencies: No extra software required; all OCR engines and scanners are fully built-in.
+🚀 First: Installation Steps (First-Time Setup)
+Double-click the installer file: DocExplorer_Setup_v1.0.exe.
+Follow the setup wizard by clicking Next until completion.
+The program icon will automatically appear on your Desktop and in the Start Menu.
+Launch the application using the Desktop shortcut.
+🔑 Second: Activation and Upgrade Steps to the Full Version (Pro)
+Upon installation, the program operates in a free trial mode. To activate the permanent full version without any limitations:
 
-## 💻 System Requirements
-* **Operating System:** Windows 10 or Windows 11 (64-bit).
-* **Additional Dependencies:** No extra software required; all OCR engines and scanners are fully built-in.
+Click the "Upgrade to Pro and Unlock All Features" button located in the orange bar at the top of the interface.
+A window containing your Machine ID will open.
+Click the "Copy Code" button (or click the WhatsApp contact button directly to send it).
+Send this code to Technical Support, and we will provide your machine-specific license key.
+Paste the key into the activation field and click "Activate Now".
+A successful activation message will appear, and the interface will immediately switch to the full version.
+Note: The license is locked to your machine and remains active and permanent even after formatting Windows. --
 
----
+🔍 Third: How to Use Advanced Search Features
 
-## 🚀 First: Installation Steps (First-Time Setup)
+Smart Boolean Search (AND / OR / NOT)
+When the "Advanced Boolean Search" option is enabled, you can refine your results as follows:
 
-1. Double-click the installer file: `DocExplorer_Setup_v1.0.exe`.
-2. Follow the setup wizard by clicking **Next** until completion.
-3. The shortcut icon will automatically appear on your **Desktop** and in the **Start Menu**.
-4. Launch the application using the Desktop shortcut.
+Contract AND Lease: Requires both words to be present together in the same text.
+Court NOT Criminal: Searches for the word (Court) and excludes any result containing the word (Criminal).
+Invoice OR Receipt: Displays results containing either of the two words.
+Company AND Supply NOT Cancelled: A combined example to search for supply files while excluding cancelled ones.
+2. Searching Inside Images and Scanned Documents (OCR)
+Ensure the option "And Image PDF Files (OCR)" is enabled in the interface.
+The engine automatically supports reading text in both Arabic and English within (PDF, PNG, JPG) files.
+3. Preview and Exporting Reports
+Quick Preview: Click once on any result to preview the highlighted text and its context in the side panel without opening the file.
 
----
+Open Original File: Double-click the file name in the list to open it with its default application (Word, Excel, etc.).
 
-## 🔑 Second: Activation and Upgrade Steps (Pro Edition)
+Export: Use the export buttons at the bottom to save a comprehensive report in Excel/CSV format or as a formatted, print-ready PDF file.
