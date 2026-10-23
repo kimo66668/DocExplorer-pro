@@ -1,8 +1,8 @@
  # DocExplorer-pro
 
 
- [![احصل عليه من Microsoft](https://get.microsoft.com/images/ar-sa%20dark.svg)](https://apps.microsoft.com/detail/9P8ZHLXCZWFK)
- 
+ [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P8ZHLXCZWFK)
+
 # 📄 دليل تثبيت وتشغيل برنامج مستكشف المستندات (DocExplorer Pro)
 
 مرحباً بك! يتيح لك البرنامج البحث المتقدم واستخراج النصوص بدقة عالية وسرعة فائقة داخل المستندات والصور الممسوحة ضوئياً.
