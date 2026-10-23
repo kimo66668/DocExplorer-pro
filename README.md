@@ -1,3 +1,5 @@
+# رابط التحميل من Microsoft : ms-windows-store://pdp/?productid=9P8ZHLXCZWFK
+
 # DocExplorer-pro
 # 📄 دليل تثبيت وتشغيل برنامج مستكشف المستندات (DocExplorer Pro)
 
