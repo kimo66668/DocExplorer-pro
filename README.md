@@ -1,7 +1,7 @@
  # DocExplorer-pro
 
- [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P8ZHLXCZWFK)
 
+ [![احصل عليه من Microsoft](https://get.microsoft.com/images/ar-sa%20dark.svg)](https://apps.microsoft.com/detail/9P8ZHLXCZWFK)
  
 # 📄 دليل تثبيت وتشغيل برنامج مستكشف المستندات (DocExplorer Pro)
 
@@ -48,6 +48,10 @@
 * **التصدير:** استخدم زري التصدير بالأسفل لحفظ تقرير شامل بصيغة **Excel/CSV** أو ملف **PDF** منسق ومجهز للطباعة.
 
 DocExplorer-pro
+
+ [![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P8ZHLXCZWFK)
+
+ 
 📄 Installation and User Guide for DocExplorer Pro
 Welcome! The program allows you to perform advanced searches and extract text with high accuracy and ultra-fast speed from scanned documents and images.
 
